@@ -160,6 +160,11 @@ Encrypted databases (e.g., SQLCipher) are not supported and will be rejected wit
 
 ---
 
+## Live Demo
+
+Live demonstration of this project is hosted here: https://ckure.org/rx/sql
+---
+
 ## License
 
 MIT — do whatever you want, just don't remove the file header.
